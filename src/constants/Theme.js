@@ -1,0 +1,14 @@
+export default {
+  COLORS: {
+    WHITE: '#FFFFFF',
+    DARK_GRAY: '#979797',
+    LIGHT_GRAY: '#F2F2F2',
+    BRIGHT_BLUE: '#445EE9',
+    DARK_BLUE: '#24272b',
+    GRAYISH_BLUE: '#B3BFD0',
+    DARK_GRAYISH_BLUE: '#3E4A59',
+    LIGHT_GRAYISH_BLUE: '#B5BBDF',
+    LIME_GREEN: '#0AD487',
+    DARK_GRAYISH_YELLOW: '#6C6C6B',
+  },
+};
